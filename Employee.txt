@@ -1,0 +1,6 @@
+1 saeed 12 house33
+2 hassam 19 house53
+3 ravi 20 house65
+4 shujat 18 house99
+5 saad 17 house87
+6 johnd 26 gawadar
